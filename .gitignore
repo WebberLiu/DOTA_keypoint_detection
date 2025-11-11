@@ -41,7 +41,7 @@ ENV/
 *.pt
 
 # Data
-data/
+#data/
 data_samples/
 datasets/
 *.zip
